@@ -27,6 +27,10 @@ Git 提供了一个叫做 git config 的工具（译注：实际是 git-config �
 	$ git help config
 
 ##开始：创建本地仓库  
+###ssh
+	ssh-keygen
+	ssh add -l
+
 两种方法：  
 
 1. 直接创建本地仓库  
